@@ -1,0 +1,27 @@
+{
+  "name": "react-todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "trungcheng <trungs1bmt@gmail.com> (https://github.com/trungcheng)",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "lodash": "^4.17.4",
+    "react-hot-loader": "^1.3.1",
+    "webpack": "^2.1.0-beta.21",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
